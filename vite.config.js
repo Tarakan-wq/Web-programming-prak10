@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Web-programming-prak10/'
+  base: '/Web-programming-prak10/',
 })
